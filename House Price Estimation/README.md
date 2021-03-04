@@ -7,7 +7,7 @@ Je me situe dans le top [**7%**](https://www.kaggle.com/aryamaankunwar/competiti
 On ne va garder que les colonnes ayant une faible cardinalité (nb de donée unique) 
 cela va rendre la tache plus facile pour le modèle
 
-### Les caractéristiquex catégoriellex
+### Les caractéristiquex catégorielles
 En régle général la meilleure methode est "one hot encode", cette méthode consiste à creer une colonne pour chaque "état" d'une caractéristique catégorielle.
 ex : couleur possibles = rouge, bleu, vert. en appliquant one hot encode chaque rangée aura trois nouvelles colonnes : rouge, bleu et vert. pour une rangée ou l'objet est bleu, la colonne blue sera true et le reste false. Cela permet de mieux orienter le modèle  
 

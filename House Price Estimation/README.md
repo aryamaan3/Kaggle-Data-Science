@@ -1,6 +1,6 @@
 # House Price Predictor
 
-Je me situe dans le top [**7%**](https://www.kaggle.com/aryamaankunwar/competitions) pour ce concours \
+Ma proposition se situe dans le top [**7%**](https://www.kaggle.com/aryamaankunwar/competitions) sur plus de 60.000 candidats \
 [notebook](https://github.com/aryamaan3/Kaggle-Data-Science/blob/master/House%20Price%20Estimation/house-price-predictor.ipynb)
 
 ## Data Cleaning

@@ -7,7 +7,7 @@ Je vais commencer à entrainer des modèles avec seulement ces données pour voi
 
 ## Notebook 
 
-sur [kaggle](https://www.kaggle.com/aryamaankunwar/alpes-maritimes-house-predictor)
+sur [kaggle](https://www.kaggle.com/aryamaankunwar/alpes-maritimes-house-predictor) ou visualiser sur [github](https://github.com/aryamaan3/Kaggle-Data-Science/blob/master/Estimateur%20Prix%20Immo%20Alpes%20Maritimes/alpes-maritimes-house-predictor.ipynb)
 
 
 

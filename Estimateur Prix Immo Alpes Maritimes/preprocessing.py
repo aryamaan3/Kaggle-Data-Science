@@ -14,6 +14,7 @@ def get_quartier(objet):
         for i in range(len(objet)):
             if objet[i]['types']['neighborhood']:
                 return objet[i]['types']['neighborhood']
+            return 0
 
     return 0
 
